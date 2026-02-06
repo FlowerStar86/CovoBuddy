@@ -22,7 +22,20 @@ Current Status (Day 3)
 •	AI initiates the conversation automatically
 •	Basic speech-to-text and text-to-speech workflow working
 
-Next Steps
-•	Improve speech recognition accuracy
-•	Add conversation memory
-•	Enhance voice naturalness
+# Day 4
+Tested voice-first interaction with short spoken inputs
+Identified latency caused by long AI responses
+Noted robotic tone in voice output
+Planned prompt iteration to improve naturalnes
+Test Questions:
+
+1.Hi
+2.How are you?
+3.I’m feeling bored
+4.Can we practice English?
+5.I didn’t understand that
+6.Tell me something interesting
+7.I’m tired today
+8.What should we talk about?
+9.Can you help me speak better?
+10.Okay
