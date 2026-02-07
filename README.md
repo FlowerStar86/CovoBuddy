@@ -63,3 +63,5 @@ Demo link: https://convobuddyaiapp.lovable.app
 - Fallback: revert to last stable version if issues
 - Decisions: focused on voice-only interaction; planned feature to have AI prompt users to use learned words in sentences (implementation limited by token availability)
 - Blockers: app store publishing requires additional setup; further real-device testing needed
+
+Planned feature: After teaching new words, the AI will prompt users to use them in spoken sentences to reinforce learning. Implementation may be limited by AI token availability in Thunkable.
