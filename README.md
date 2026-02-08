@@ -65,3 +65,19 @@ Demo link: https://convobuddyaiapp.lovable.app
 - Blockers: app store publishing requires additional setup; further real-device testing needed
 
 Planned feature: After teaching new words, the AI will prompt users to use them in spoken sentences to reinforce learning. Implementation may be limited by AI token availability in Thunkable.
+
+# Day 8
+
+- Conducted a full 5-minute lesson test with beginner English words: 
+  - Kitchen, Breakfast, Coffee, Routine
+- The AI greeted the user and asked if they were ready for the lesson.
+- The AI taught one word at a time, demonstrating pronunciation and meaning.
+- The AI required the user to **repeat and use the word in a sentence** before moving on.
+- The AI corrected pronunciation and grammar mistakes (e.g., "I want to the kitchen" → "I went to the kitchen").
+- At the end of the lesson, the AI provided spoken feedback on:
+  - Words pronounced correctly
+  - Grammar improvements
+  - Encouragement and tips
+- The AI allowed the user to (start a new lesson)or (go back to the previous lesson) for extra practice.
+- Screenshots and/or video of this evaluation are included in the project folder.
+- Made the GitHub repository public and included all files, README, evaluation data, and media for submission.
